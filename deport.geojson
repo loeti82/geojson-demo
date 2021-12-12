@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1be43c",
+        "marker-size": "small",
+        "marker-symbol": "rocket",
+        "meta-title": "Depot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769187331199646,
+          47.366527008473085
+        ]
+      }
+    }
+  ]
+}
