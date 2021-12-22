@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-12-22T20:22:10Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41379261",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Hanggelerstrasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8272015,
+            47.39485
+          ],
+          [
+            8.82738,
+            47.3948931
+          ],
+          [
+            8.827675,
+            47.3949177
+          ],
+          [
+            8.827822,
+            47.3949179
+          ],
+          [
+            8.8279616,
+            47.3949181
+          ],
+          [
+            8.8281033,
+            47.394939
+          ],
+          [
+            8.8281387,
+            47.3949497
+          ],
+          [
+            8.8284707,
+            47.3950504
+          ],
+          [
+            8.8285377,
+            47.3950707
+          ],
+          [
+            8.8287003,
+            47.3951141
+          ],
+          [
+            8.8287739,
+            47.3951574
+          ],
+          [
+            8.8289188,
+            47.3952768
+          ],
+          [
+            8.8292483,
+            47.3954346
+          ]
+        ]
+      },
+      "id": "way/41379261"
+    }
+  ]
+}
