@@ -10,4 +10,4 @@ Demo for geojson files
 
  out geom;
  
-- export as geojason
+- export as geojson
