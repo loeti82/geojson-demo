@@ -1,21 +1,79 @@
 {
   "type": "FeatureCollection",
+  "bbox": [
+    8.793281,
+    47.361429,
+    8.793281,
+    47.361429
+  ],
   "features": [
     {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#1be43c",
-        "marker-size": "small",
-        "marker-symbol": "rocket",
-        "meta-title": "Depot"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.769187331199646,
-          47.366527008473085
+          8.793279647827148,
+          47.36143112182617
         ]
-      }
+      },
+      "properties": {
+        "origin": "address",
+        "geom_quadindex": "030012310300120111001",
+        "weight": 4,
+        "zoomlevel": 10,
+        "featureId": "87530_0",
+        "lon": 8.793279647827148,
+        "detail": "dorfstrasse 10 8330 pfaeffikon zh 177 pfaeffikon ch zh",
+        "rank": 7,
+        "geom_st_box2d": "BOX(8.793281 47.361429,8.793281 47.361429)",
+        "lat": 47.36143112182617,
+        "num": 10,
+        "y": 47.36143112182617,
+        "x": 8.793279647827148,
+        "label": "Dorfstrasse 10 <b>8330 Pfäffikon ZH</b>",
+        "id": 383689
+      },
+      "type": "Feature",
+      "id": 383689,
+      "bbox": [
+        8.793281,
+        47.361429,
+        8.793281,
+        47.361429
+      ]
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.805391311645508,
+          47.34514617919922
+        ]
+      },
+      "properties": {
+        "origin": "address",
+        "geom_quadindex": "030012313022323021101",
+        "weight": 4,
+        "zoomlevel": 10,
+        "featureId": "88763_0",
+        "lon": 8.805391311645508,
+        "detail": "dorfstrasse 10 8331 auslikon 177 pfaeffikon ch zh",
+        "rank": 7,
+        "geom_st_box2d": "BOX(8.805392 47.345146,8.805392 47.345146)",
+        "lat": 47.34514617919922,
+        "num": 10,
+        "y": 47.34514617919922,
+        "x": 8.805391311645508,
+        "label": "Dorfstrasse 10 <b>8331 Auslikon</b>",
+        "id": 594901
+      },
+      "type": "Feature",
+      "id": 594901,
+      "bbox": [
+        8.805392,
+        47.345146,
+        8.805392,
+        47.345146
+      ]
     }
   ]
 }
