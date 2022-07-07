@@ -1,79 +1,56 @@
 {
-  "type": "FeatureCollection",
-  "bbox": [
-    8.793281,
-    47.361429,
-    8.793281,
-    47.361429
-  ],
-  "features": [
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.793279647827148,
-          47.36143112182617
-        ]
-      },
-      "properties": {
-        "origin": "address",
-        "geom_quadindex": "030012310300120111001",
-        "weight": 4,
-        "zoomlevel": 10,
-        "featureId": "87530_0",
-        "lon": 8.793279647827148,
-        "detail": "dorfstrasse 10 8330 pfaeffikon zh 177 pfaeffikon ch zh",
-        "rank": 7,
-        "geom_st_box2d": "BOX(8.793281 47.361429,8.793281 47.361429)",
-        "lat": 47.36143112182617,
-        "num": 10,
-        "y": 47.36143112182617,
-        "x": 8.793279647827148,
-        "label": "Dorfstrasse 10 <b>8330 Pfäffikon ZH</b>",
-        "id": 383689
-      },
-      "type": "Feature",
-      "id": 383689,
-      "bbox": [
-        8.793281,
-        47.361429,
-        8.793281,
-        47.361429
-      ]
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.805391311645508,
-          47.34514617919922
-        ]
-      },
-      "properties": {
-        "origin": "address",
-        "geom_quadindex": "030012313022323021101",
-        "weight": 4,
-        "zoomlevel": 10,
-        "featureId": "88763_0",
-        "lon": 8.805391311645508,
-        "detail": "dorfstrasse 10 8331 auslikon 177 pfaeffikon ch zh",
-        "rank": 7,
-        "geom_st_box2d": "BOX(8.805392 47.345146,8.805392 47.345146)",
-        "lat": 47.34514617919922,
-        "num": 10,
-        "y": 47.34514617919922,
-        "x": 8.805391311645508,
-        "label": "Dorfstrasse 10 <b>8331 Auslikon</b>",
-        "id": 594901
-      },
-      "type": "Feature",
-      "id": 594901,
-      "bbox": [
-        8.805392,
-        47.345146,
-        8.805392,
-        47.345146
-      ]
-    }
-  ]
+    "type": "FeatureCollection",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": 158810879,
+                "osm_type": "way",
+                "osm_id": 233127069,
+                "display_name": "10, Dorfstrasse, Schibler, Auslikon, Pfäffikon, Bezirk Pfäffikon, Zürich, 8331, Schweiz/Suisse/Svizzera/Svizra",
+                "place_rank": 30,
+                "category": "building",
+                "type": "yes",
+                "importance": 0.32010000000000005
+            },
+            "bbox": [
+                8.8053144,
+                47.345092,
+                8.8054242,
+                47.3452065
+            ],
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.8053144,
+                            47.3451936
+                        ],
+                        [
+                            8.8053189,
+                            47.3451829
+                        ],
+                        [
+                            8.8053569,
+                            47.345092
+                        ],
+                        [
+                            8.8054242,
+                            47.345105
+                        ],
+                        [
+                            8.8053816,
+                            47.3452065
+                        ],
+                        [
+                            8.8053144,
+                            47.3451936
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
 }
